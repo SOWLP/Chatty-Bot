@@ -2,10 +2,10 @@ import java.util.Scanner
 
 const val TWO = 2
 
-val scanner = Scanner(System.`in`) // Do not change this line
+val scanner = Scanner(System.`in`)
 
 fun main() {
-    greet("Aid", "2020") // change it as you need
+    greet("WALL-E", "2008")
     remindName()
     guessAge()
     count()
@@ -59,5 +59,5 @@ fun test() {
 }
 
 fun end() {
-    println("Congratulations, have a nice day!") // Do not change this text
+    println("Congratulations, have a nice day!")
 }
